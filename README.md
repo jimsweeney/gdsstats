@@ -1,6 +1,6 @@
 # gdsstats - a layout metrics report card for gdsfactory
 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![tests](https://github.com/jimsweeney/gdsstats/actions/workflows/ci.yml/badge.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 `gdsstats` reads a GDS layout (or a gdsfactory `Component`) and prints a one-page report card: how many cells,
 references, polygons, vertices, and labels it holds, how the cell tree nests, which cells and layers dominate,
