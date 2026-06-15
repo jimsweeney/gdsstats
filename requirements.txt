@@ -1,0 +1,5 @@
+gdstk>=0.9
+matplotlib>=3.4
+# gdsfactory is optional: only needed to measure a Component object directly.
+# A GDS file works without it.
+# gdsfactory>=6.0
